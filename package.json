@@ -1,0 +1,9 @@
+{
+  "name": "com.fmod.integration",
+  "displayName": "FMOD Studio Integration",
+  "version": "2.03.08",
+  "unity": "2021.3",
+  "description": "FMOD Studio Integration for Unity as a UPM package.",
+  "keywords": [ "fmod", "audio", "sound" ],
+  "dependencies": {}
+}
