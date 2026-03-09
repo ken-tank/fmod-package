@@ -1,7 +1,5 @@
 Convert FMOD Asset Plugin to UPM, so Project Distribution size will reduce significan, by Unity Git Importer
 
-Use FMOD Plugin version 2.03.08
-
 <hr>
 Notes:
 when using this FMOD UPM version, all path will moved to FMOD relative folder "YourProject/Library/PackageCache/com.fmod.integration@.../FMOD"
